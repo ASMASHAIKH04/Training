@@ -1,0 +1,36 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    font-size: large;
+    font-weight: 200;
+    color: white;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+
+.container .header {
+    background-color: orange;
+    padding: 20px;
+    text-align: center;
+}
+
+.contact {
+    text-align: left;
+}
+
+.contact .form {
+    margin-left: 20px;
+}
+
+body {
+    background: url(back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
